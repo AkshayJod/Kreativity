@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kreativity League Platform
 
 This repository contains the source code for the Kreativity League platform, a MERN stack application.
@@ -100,3 +101,6 @@ The client will typically start on `http://localhost:5173`.
 - **Module Not Found Errors:** Ensure you have run `npm install` in both `server` and `client` directories.
 - **Connection Refused:** Check if MongoDB is running and the `MONGO_URI` is correct.
 - **Port Conflicts:** If port 5000 or 5173 is in use, modify the `PORT` in `.env` or check for running processes.
+=======
+# Kreativity
+>>>>>>> 71cd307293f3d842551c62d77b06e7e80c46161a
